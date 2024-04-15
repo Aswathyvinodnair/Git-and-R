@@ -3,4 +3,5 @@ get_yesterday<-function(){
   # Adding a comment from github
   #Adding comment to github
   return(x)
+  # Sample 
 }
